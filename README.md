@@ -1,2 +1,2 @@
-# liberbot
+# Liberbot
 mIRC Scripting automated BOT
